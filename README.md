@@ -1,6 +1,6 @@
 # Template CV Etudiants Hetic
 
-## Documentation Technique concernant le projet
+## Documentation Technique
 
 ### Socle Technologique :
 
@@ -24,4 +24,4 @@ Télécharger ce repository et importer le fichier index.html ainsi que la feuil
 
 - Affichage : 
   - Le template supporte l'ajout d'images dans certains encarts (photos de l'étudiant, icone illustrant une compétence).
-  - Chaque élément du template est stylisé pour petit, grand écran et à l'impression.
+  - Chaque élément du template est stylisé pour mobile ainsi que petit, grand écran et à l'impression.
